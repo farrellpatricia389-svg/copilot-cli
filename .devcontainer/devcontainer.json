@@ -1,0 +1,4 @@
+revert-764-devm33/winget-app{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
